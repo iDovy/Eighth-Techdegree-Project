@@ -80,6 +80,48 @@ h3{
 .nav-img .st0{
   fill: #39add1;
 }
+.corgi{
+  width: 200px;
+  height: 180px;
+}
+.corgis{
+  display: inline-block;
+  list-style: none;
+}
+.corgis li{
+  float: left;
+}
+#Layer_1{
+  display: none;
+}
+.desc{
+  color: #ba8058;
+  margin: 0 0 0 45px;
+}
+.body{
+  fill: #525952;
+}
+.nose_and_eyes{
+  fill:#2D3339;
+}
+.brows{
+  fill:#DA8058;
+}
+.white{
+  fill:#FBFEFF;
+}
+.Sable{ 
+  fill:rgb(183, 139, 95);
+}
+.Fawn{ 
+  color: rgb(226, 162, 122);
+}
+.Red{ 
+  color: rgb(124, 71, 38);
+}
+.Stone{ 
+  color: rgb(77, 84, 89);
+}
 @media (min-width: 425px){
   h3{
     display: none;
